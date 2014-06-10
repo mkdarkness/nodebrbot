@@ -6,11 +6,12 @@
     "test": "make test"
   },
   "dependencies": {
-    "irc": "~0.3.6",
     "cubby": "0.0.3",
+    "irc": "~0.3.6",
     "moment": "~2.4.0",
-    "scrap": "~0.1.0",
-    "request": "~2.34.0"
+    "ntwitter": "^0.5.0",
+    "request": "~2.34.0",
+    "scrap": "~0.1.0"
   },
   "devDependencies": {
     "mocha": "~1.15.1",
